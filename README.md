@@ -6,7 +6,7 @@ A modern, Tkinter-based GUI chat application that uses the MQTT protocol for rea
 
 ## 🚀 Features
 
-- 📡 Connects to public MQTT broker (`test.mosquitto.org`)
+- 📡 Connects to public MQTT broker (`broker.hivemq.com`)
 - 💬 Join or create chatrooms (topics)
 - 🧑‍🤝‍🧑 See live list of connected users
 - 📜 Recent chatrooms history
